@@ -8,7 +8,7 @@ Commit: Depende da existência de um Branch. Ele registra alterações dentro de
 
 Pull Request: Permite a transmissão de alterações em uma ramificação de um repositório para outras pessoas.
 
-Merge: Unificação de de um histórico ramificado.
+Merge: Unificação de um histórico ramificado.
 
 Clone: Irá fazer uma cópia de um repositório para o seu computador.
 
