@@ -1,1 +1,14 @@
+Glossário(GitHub)
+
+Repositório: Um repositório contém todos os arquivos do seu projeto e o histórico de revisão de cada arquivo. Outra função é poder gerenciar o trabalho dentro dele.
+
+Branch: A função do Branch é poder alterar ramificações, como criar, listar, nomear ou excluir.
+
+Commit: Depende da existência de um Branch. Ele registra alterações dentro de arquivos inseridos no Branch.
+
+Pull Request: Permite a transmissão de alterações em uma ramificação de um repositório para outras pessoas.
+
+Merge: Unificação de de um histórico ramificado.
+
+Clone: Irá fazer uma cópia de um repositório para o seu computador.
 
